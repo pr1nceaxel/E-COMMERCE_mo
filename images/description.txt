@@ -1,0 +1,12 @@
+1- Definition des besoins 
+
+    -Un visiteur peut visualiser la liste des articles disponibles
+    -Un visiteur peut consulter les details d'un articles
+    -Un visiteur peut ajouter, supprimer un article à son panier
+    -Un visiteur peut passer une commande
+
+2- Modelisation
+
+    Visiteur (id,  nom, prenom, tel);
+    Article (id, nom, descrption, photo, url);
+    Commande ()

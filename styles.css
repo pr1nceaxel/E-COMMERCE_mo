@@ -1,0 +1,91 @@
+.Navbar{
+    width: 100%;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    transition: background-color 0.3s ease;
+    background-color: white;
+}
+.logo{
+    width: 120px;
+    cursor: pointer;
+}
+.Navbar ul li {
+    padding: 15px;
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+.Navbar ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+
+.Navbar ul li a:hover {
+    text-decoration: underline;
+    text-decoration-color: orange;
+    transition-delay: 0.1s;
+}
+
+/* styles.css */
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #ffcc00;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 10px; 
+    transition: transform 0.3s ease-in-out; 
+}
+
+.social-icons a:hover {
+    transform: scale(1.1); 
+}
+
+
+.social-icons img {
+    width: 40px;
+    height: 40px;
+}
+

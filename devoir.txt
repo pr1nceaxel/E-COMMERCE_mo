@@ -1,0 +1,17 @@
+1..garder les commandes dans une variable session....OK
+
+2.includ de footer et header...ok
+
+-ajouter au panier avec logo ..le bouton en vert...et on vois le nombre s'afficher juste a coter du bouton voir mon panier en haut(ecrementation)....ok
+
+
+dans la liste  voir mon panier un bouton commander qui s'efface la liste lorsqu'on clique dessus
+
+
+une reference pour toute les commandes ...
+
+
+
+
+dans voir plus on change commande en ajouter panier....ok
+
